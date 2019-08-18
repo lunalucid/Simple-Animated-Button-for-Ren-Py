@@ -1,0 +1,1 @@
+Place 'animated_button' folder in game/images
